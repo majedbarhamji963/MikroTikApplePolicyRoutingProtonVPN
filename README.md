@@ -1,4 +1,4 @@
-# MikroTikApplePolicyRoutingProtonVPN
+# MikroTik Apple Policy Routing ProtonVPN
 ## Step 1: Extract WireGuard Configuration from ProtonVPN
 Before configuring the router, you need your ProtonVPN connection details:
 1. Log in to your account at [account.protonvpn.com](https://account.protonvpn.com).
